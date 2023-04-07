@@ -29,3 +29,4 @@ export fpath=(~/.zsh/zsh-completions/src $fpath)
 source ~/.profile
 
 
+source ~/.xu/init/set_zsh_history.sh
